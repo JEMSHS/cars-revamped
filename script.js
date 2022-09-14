@@ -1,6 +1,6 @@
 var SPEED = 0.004;
 var CAMERA_LAG = 0.9;
-var COLLISION = 1.0;
+var COLLISION = 0.5;
 var BOUNCE = 0.5;
 var mapscale = 5;
 var shiny = false;
