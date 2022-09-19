@@ -1,4 +1,4 @@
-var SPEED = 0.004;
+var SPEED = 0.009;
 var CAMERA_LAG = 0.9;
 var COLLISION = 0.9;
 var BOUNCE = 1.0;
